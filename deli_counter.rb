@@ -1,5 +1,7 @@
 katz_deli = []
 
-def line(v)
+def line(a)
+  line_arr =[]
+  
   
   
