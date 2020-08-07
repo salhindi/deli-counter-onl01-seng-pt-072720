@@ -5,4 +5,7 @@ def line(katz_deli)
     end
 
 def line(other_deli)
+  other_deli = []
+  puts "there are people in line"
+end
   
