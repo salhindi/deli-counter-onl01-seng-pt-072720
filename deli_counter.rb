@@ -9,5 +9,6 @@ def line(a)
   end
   puts "The line is currently: #{line_arr.join(" ")}."
 end
+end
   
   
