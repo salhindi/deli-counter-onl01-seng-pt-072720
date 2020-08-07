@@ -15,5 +15,8 @@ def line(guests)
   puts "The line is currently: #{arr.join(" ")}"
 end
 end
+
+def take_a_number(guest)
+  new_number = []
   
   
