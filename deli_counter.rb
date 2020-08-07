@@ -1,14 +1,14 @@
 katz_deli = []
 
-def line(x)
-  line_array = []
-  if x.length == 0
+def line(guests)
+  line_arr = []
+  if guests.length == 0
     puts "The line is currently empty."
   else 
-    x.each.with_index(1) do |n, idx|
-    line_array.push("#{idx}. #{n}")
+    guests.each.with_index(1) do |n, idx|
+    line_arr.push("#{idx}. #{n}")
   end
-  puts "The line is currently: #{line_array.join(" ")}"
+  puts "The line is currently: #{line_arr.join(" ")}"
 end
 end
   
