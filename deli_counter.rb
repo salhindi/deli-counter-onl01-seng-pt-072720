@@ -16,7 +16,6 @@ def line(guests)
 end
 end
 
-def take_a_number(guest)
-  new_number = []
+def take_a_number(
   
   
