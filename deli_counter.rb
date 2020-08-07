@@ -4,6 +4,6 @@ def line(a)
   line_arr =[]
   if a.length == 0
     puts "The line is currently empty."
-  else a.each.with.index(1) 
+  else a.each.with.index(1) do |name,
   
   
