@@ -16,9 +16,9 @@ def line(guests)
 end
 end
 
-def take_a_number(katz_deli, name)
-  katz_deli.push(name)
-  puts "Welcome, #{name}. You are number #{katz_deli.length} in line."
+def take_a_number(num, name)
+  num.push(name)
+  puts "Welcome, #{name}. You are number #{num.length} in line."
 end
   
   
