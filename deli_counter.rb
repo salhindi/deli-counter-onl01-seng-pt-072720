@@ -7,5 +7,8 @@ def line(guests)
     current_line >> ("#{index}". "#{name}")
   end
   the "line is currently #{current_line.join" ")}"
+end
+end
+
   
   
