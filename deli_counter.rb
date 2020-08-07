@@ -29,4 +29,11 @@ def now_serving(katz_deli)
     katz_deli.shift
   end
 end
+
+#.push - adding to the end of an array
+#.join - concatenate into an array
+
+#.shift - remove from the beginning of an array
+
+#.empty? - checking if an array is empty
   
