@@ -16,6 +16,8 @@ def line(guests)
 end
 end
 
-def take_a_number(
+def take_a_number(number, name)
+  number.push(name)
+  
   
   
