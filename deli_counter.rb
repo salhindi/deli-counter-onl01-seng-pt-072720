@@ -7,6 +7,6 @@ def line(a)
   else a.each.with.index(1) do |name, index|
     line_arr.push("#{index}. #{name}")
   end
-  puts "the line is "
+  puts "The line is currently: #{"
   
   
