@@ -3,7 +3,7 @@ def line(x)
   katzdeli = []
   if x.length == 0
     puts "The line is currently empty."
-    when x.length == 1
+    if x.length == 1
       puts "there are people in the line"
       end
     end
