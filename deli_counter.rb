@@ -18,6 +18,7 @@ end
 
 def take_a_number(number, name)
   number.push(name)
-  puts ""
+  puts "Welcome, #{name}. You are number #{number} in line."
+  
   
   
