@@ -6,6 +6,6 @@ def line(guests)
   else guests.each_with_index { |name,index| }
     current_line >> ("#{index}". "#{name}")
   end
-  the "line is currently 
+  the "line is currently #{current_line.join
   
   
