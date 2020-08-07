@@ -5,5 +5,7 @@ def line(guests)
     puts "The line is currently empty."
   else guests.each_with_index { |name,index| }
     current_line >> ("#{index}". "#{name}")
+  end
+  the "line is currently 
   
   
