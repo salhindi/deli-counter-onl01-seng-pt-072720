@@ -5,5 +5,6 @@ def line(x)
     when x > 0
       puts "there are people in the line"
       end
+    end
 
   
